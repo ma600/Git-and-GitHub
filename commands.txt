@@ -1,0 +1,12 @@
+1. Create a folder in your system where you want to clone 
+2. Run>> Git clone 'Https Repository link'
+3. Make changes in the folder
+4. Run>> Git add . Or just specify filename
+5. Run>> git status
+6. Run>> git commit -m "comments"
+7. Run>> git push origin master
+8. To check git branch run>> git branch
+9. Run>> git remote rm origin
+10. Run>> git remote add origin
+11. Git pull
+https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration
